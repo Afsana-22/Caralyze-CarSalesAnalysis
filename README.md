@@ -1,9 +1,12 @@
 # Caralyze-CarSalesAnalysis
 Data Analytics project
- Caralyze: Car Sales Analysis & Price Prediction App
+
+Caralyze: Car Sales Analysis & Price Prediction App
+
 Caralyze is a Streamlit-based web application that allows users to explore car market data, compare models, and predict car prices using machine learning models. It features a user-friendly interface with login functionality and multiple data exploration tools to assist users in making informed decisions.
 
 ->Features
+
 *User Authentication
 Login and sign-up system with username and password stored in a CSV file.
 
@@ -23,6 +26,8 @@ Visualize and filter cars that fall within a selected price range using DBSCAN c
 View historical unit sales trends by brand to identify growth or decline over the years.
 
 -> Technologies Used
+
+
 Frontend & App Framework: Streamlit
 
 Data Handling: pandas, NumPy
